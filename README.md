@@ -1,5 +1,10 @@
 # lightline-onedark
 
+Below is a picture of the onedark colorscheme in vim along with how lightline
+looks with four different vim modes.
+
+![onedark](./onedark.png)
+
 This is an [itchyny](https://github.com/itchyny) / [lightline.vim](https://github.com/itchyny/lightline.vim)
  theme for [joshdick](https://github.com/joshdick) / [onedark.vim](https://github.com/joshdick/onedark.vim).
 
