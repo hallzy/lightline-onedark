@@ -1,3 +1,5 @@
+[![Analytics](https://ga-beacon.appspot.com/UA-49189836-3/hallzy/lightline-onedark)](https://github.com/igrigorik/ga-beacon)
+
 # lightline-onedark
 
 Below is a picture of the onedark colorscheme in vim along with how lightline
